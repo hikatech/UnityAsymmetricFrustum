@@ -1,5 +1,5 @@
 # FrustumCamSample
-* [hikatech.com](http://hikatech.com/)
+* [hikatech.com/set-asymmetric-viewing-frustum-unity](http://hikatech.com/set-asymmetric-viewing-frustum-unity)
 * Define an asymmetric viewing frustum with Unity3d
 
 # test environment
